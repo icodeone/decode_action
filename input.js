@@ -1,13 +1,4 @@
-/**
- * Main Javascript of Dragon WordPress Theme
- *
- * @package   Dragon
- * @version   5.2.0
- * @date      2024.6.1
- * @author    龙笑天下 <lxt@ilxtx.com>
- * @site      龙笑天下 <www.ilxtx.com>
- * @link      https://www.ilxtx.com/dragon.html
-**/
+
 var _0xodX = 'jsjiami.com.v7';
 function _0x3a5a() {
     var _0x2a3313 = (function() {
