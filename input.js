@@ -1,8 +1,3 @@
-/*
- * 加密工具已经升级了一个版本，目前为 jsjiami.com.v7 ，更新了加密算法，缩减了体积;
- * 另外 jsjiami.com.v7 已经强制加入校验，注释可以去掉，但是 jsjiami.com.v7 不能去掉，其他都没有任何绑定。
- * 誓死不会加入任何后门，JsJiami.com 加密的使命就是为了保护你们的Javascript 。
- */
 var _0xodF = 'jsjiami.com.v7';
 if (function(_0x1acc5d, _0x4984b0, _0x1608ae, _0x5890b0, _0x14d231, _0xb44d62, _0x32593e) {
     return _0x1acc5d = _0x1acc5d >> 0x9,
