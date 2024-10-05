@@ -1,4 +1,4 @@
-//Sat Oct 05 2024 13:17:04 GMT+0000 (Coordinated Universal Time)
+//Sat Oct 05 2024 13:19:55 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 function imgsrc(_0x56bf0b, _0x2cc5b2, _0x273bc7) {
